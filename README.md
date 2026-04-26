@@ -109,7 +109,7 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavyaAICE&bg_color=0d0d0d&color=00ff41&line=39ff14&point=00ff41&area=true&area_color=003b00&hide_border=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BhavyaAICE&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6&v=1" />
 
 </div>
 
@@ -119,7 +119,7 @@ public:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhavya-gupta-12753531a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-gupta-12753531a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavyagupta294@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhavyaAICE)
 
